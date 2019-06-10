@@ -1,1 +1,1 @@
-https://luckyebb.github.io/CurriculumVitae/
+https://luckyebb.github.io/CurriculumVitae/index.html
