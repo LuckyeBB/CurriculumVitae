@@ -1,0 +1,48 @@
+body{
+	margin-left: 40px;
+	font-family: Century Gothic;
+	text-align: center;
+	background-color: #cccccc;
+	background-attachment: fixed;
+}
+img{
+	height: 160px;
+	width: 160px;
+	border-radius: 400px;
+}
+h2{
+	color: #00BFFF;
+	font-size: 30px;
+	height: 30px;
+}
+h1{
+	font: Century Gothic;
+	height: 10px;
+	margin-top: 0px;
+	color: DodgerBlue;
+	font-size:74px;
+	font: bold;
+}
+div{
+	color: black;
+	
+}
+.medo{
+	width: 200px;
+	height: 200px;
+}
+fieldset{
+		margin-left: auto;
+		margin-right: auto;
+		width: 800px;
+		background-color: white;
+		border: none;
+		margin-top: 0px;
+}
+table{
+	background-color: blue;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	color: white;
+}
